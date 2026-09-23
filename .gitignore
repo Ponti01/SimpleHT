@@ -1,2 +1,4 @@
 old.c
 *.o
+bin
+build
