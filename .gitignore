@@ -1,4 +1,9 @@
+app/main.c
+app
+data
+*.txt
 old.c
 *.o
 bin
 build
+.DS_Store
